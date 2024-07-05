@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+.vs/WindowOpenGL/FileContentIndex/baea4fd8-a893-48b0-9248-365f3bc069a9.vsidx
+.vs/WindowOpenGL/v17/Browse.VC.db
+.vs/WindowOpenGL/v17/Browse.VC.db-shm
+.vs/WindowOpenGL/v17/Browse.VC.db-wal
+.vs/WindowOpenGL/v17/Browse.VC.opendb
